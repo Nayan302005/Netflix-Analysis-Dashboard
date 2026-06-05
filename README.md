@@ -27,17 +27,25 @@ This dashboard transforms raw Netflix data into meaningful business insights thr
 
 ---
 
-# 🖼️ Dashboard Preview
-
 <div align="center">
-🎬 Netflix Analysis Dashboard
-Transforming Netflix Data into Actionable Insights
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="180"/>
-<img src="Netflix Dashboard.png" width="100%"/>
 
+# 🎬 Netflix Analysis Dashboard
 
+### Transforming Netflix Data into Actionable Insights
 
-</div> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" width="280"/>
+
+<br>
+
+---
+
+### 📊 Dashboard Preview
+
+<img src="Netflix Dashboard.png" alt="Netflix Dashboard Preview" width="95%"/>
+
+---
+
+</div>
 ---
 
 # ✨ Key Features
